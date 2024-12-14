@@ -1,8 +1,7 @@
 nginx
 jonnyan404/mrdoc-nginx
 codercom/code-server
-diouxx/glpi
-talebook/talebook
+jgraph/drawio
 #支持私库
 k8s.gcr.io/kube-state-metrics/kube-state-metrics:v2.0.0
 xhofe/alist:latest
