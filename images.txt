@@ -4,6 +4,7 @@ codercom/code-server
 jgraph/drawio
 linuxserver/webtop
 shilazi/proxyer:v1.0.1
+rancher/etcd:v3.0.17
 # 这个版本的code好装
 codercom/code-server
 #支持私库
