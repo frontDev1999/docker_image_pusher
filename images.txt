@@ -5,6 +5,10 @@ jgraph/drawio
 linuxserver/webtop
 shilazi/proxyer:v1.0.1
 rancher/etcd:v3.0.17
+langgenius/dify-sandbox:0.2.12
+langgenius/dify-plugin-daemon:0.5.2-local
+langgenius/dify-api:1.11.1
+langgenius/dify-web:1.11.1
 # 这个版本的code好装
 codercom/code-server
 #支持私库
